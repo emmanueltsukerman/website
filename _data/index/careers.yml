@@ -15,15 +15,17 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: CyberSight Inc.
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: - R&D from conception to release of anti–ransomware solution CyberSight RansomStopper
+- Solution utilizes ML and patented deception technology to detect and stop never-before-seen ransomware attacks
+- Top 10 Best Ransomware Protection of 2018 (PC Magazine), Editor's Choice, Excellent Rating
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jan 2017-Apr 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Chief Data Scientist
     i18n: company_b_job
   icon: fa-plus-square
