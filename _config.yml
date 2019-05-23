@@ -25,8 +25,8 @@ author:  # change following line to your infomation.
     - name: fa-linux
   skill_icon2:
     - name: fa-video
-    - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+    - name: fa-shield-alt
+  desc: Award-Winning Cybersecurity Data Scientist | Udemy Instructor | Stanford Graduate | Artful Public Speaker 
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
