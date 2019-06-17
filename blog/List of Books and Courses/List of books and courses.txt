@@ -1,0 +1,30 @@
+Malware Data Science: Attack Detection and Attribution
+Book by Hillary Sanders and Joshua Saxe
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/1593278594/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593278594&linkCode=as2&tag=ml4cs-20&linkId=281ee6a623e3a5121ca9bcaa289fd92e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1593278594&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ml4cs-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ml4cs-20&l=am2&o=1&a=1593278594" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a target="_blank" href="https://www.amazon.com/gp/product/1593278594/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593278594&linkCode=as2&tag=ml4cs-20&linkId=67a379fb8102cd93c37e43ccdbae2364">Malware Data Science: Attack Detection and Attribution</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ml4cs-20&l=am2&o=1&a=1593278594" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Mastering Machine Learning for Penetration Testing: Develop an Extensive Skill Set to Break Self-learning Systems Using Python
+Book by Chiheb Chebbi
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/1788997409/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788997409&linkCode=as2&tag=ml4cs-20&linkId=647050ba0b0b8afd33f880d221d0af66"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1788997409&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ml4cs-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ml4cs-20&l=am2&o=1&a=1788997409" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a target="_blank" href="https://www.amazon.com/gp/product/1788997409/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788997409&linkCode=as2&tag=ml4cs-20&linkId=1fa85b94a769931eedd9ebe2d3f6c624">Mastering Machine Learning for Penetration Testing: Develop an extensive skill set to break self-learning systems using Python</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ml4cs-20&l=am2&o=1&a=1788997409" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Hands-On Machine Learning for Cybersecurity: Safeguard your system by making your machines intelligent using the Python ecosystem
+Book by Soma Halder and Sinan Ozdemir 
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/1788992288/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788992288&linkCode=as2&tag=ml4cs-20&linkId=a91abc13a89aceffd8275bdf62944d41"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1788992288&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ml4cs-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ml4cs-20&l=am2&o=1&a=1788992288" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a target="_blank" href="https://www.amazon.com/gp/product/1788992288/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788992288&linkCode=as2&tag=ml4cs-20&linkId=a20379901c0a1171a4d27470b620b449">Hands-On Machine Learning for Cybersecurity: Safeguard your system by making your machines intelligent using the Python ecosystem</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ml4cs-20&l=am2&o=1&a=1788992288" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Machine Learning and Security: Protecting Systems with Data and Algorithms
+Book by Clarence Chio and David Freeman
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/1491979909/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491979909&linkCode=as2&tag=ml4cs-20&linkId=f8437121fd87602fa94612e80a977659"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1491979909&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ml4cs-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ml4cs-20&l=am2&o=1&a=1491979909" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a target="_blank" href="https://www.amazon.com/gp/product/1491979909/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491979909&linkCode=as2&tag=ml4cs-20&linkId=031e82dd94db94396e4d106547181708">Machine Learning and Security: Protecting Systems with Data and Algorithms</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ml4cs-20&l=am2&o=1&a=1491979909" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+*As an Amazon Associate I earn from qualifying purchases.
